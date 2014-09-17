@@ -1,0 +1,13 @@
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\bin\Debug\Planner.exe.config
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\Planner.csprojResolveAssemblyReference.cache
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\App.g.cs
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\Planner_MarkupCompile.cache
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\Planner.g.resources
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\Planner.Properties.Resources.resources
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\Planner.csproj.GenerateResource.Cache
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\bin\Debug\Planner.exe
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\bin\Debug\Planner.pdb
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\Planner.exe
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\Planner.pdb
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\MainScreen.baml
+c:\users\-karthik-\documents\visual studio 2013\Projects\Planner\Planner\obj\Debug\MainScreen.g.cs

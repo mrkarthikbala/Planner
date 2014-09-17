@@ -1,0 +1,25 @@
+﻿<Window x:Class="Planner.MainScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title = "Planner" Height="350" Width="525">
+    <Grid>
+    <Grid.Resources>
+      <DataTemplate DataType="ShortTerm">
+        
+      </DataTemplate>
+    </Grid.Resources>
+    <TabControl>
+      <TabItem Header="Short Term Projects" >
+        <StackPanel>
+          <ListView ItemsSource="{Binding ShortTermProjects}" />
+        </StackPanel>
+      </TabItem>
+      <TabItem Header="Long Term Projects">
+        <ListView ItemsSource="{Binding LongTermProjects}" />
+      </TabItem>
+      <TabItem Header="Rules">
+        <ListView ItemsSource="{Binding Rules}"></ListView>
+      </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
